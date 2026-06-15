@@ -14,17 +14,6 @@
 - **Agent skills 产品化**：把商业诊断、写作、PPT、内容生成、学习教练等重复工作沉淀成可复用 skills。
 - **需求验证机器**：用趋势、搜索、竞品、页面、部署和数据反馈，快速验证小型互联网产品。
 
-## 代表项目
-
-- [codex-remote-feishu](https://github.com/Fmaverick/codex-remote-feishu)：从飞书远程操作 Codex 的实验。
-- [dbskill](https://github.com/Fmaverick/dbskill)：dontbesilent 商业诊断 skills。
-- [guizang-ppt-skill](https://github.com/Fmaverick/guizang-ppt-skill)：用 Agent 生成高质量 HTML/PPT 的 skill。
-- [guizang-social-card-skill](https://github.com/Fmaverick/guizang-social-card-skill)：小红书图文和公众号封面生成工作流。
-- [boss-agent-cli](https://github.com/Fmaverick/boss-agent-cli)：面向 BOSS 直聘场景的 agent-first CLI。
-- [k2-climbing-guide](https://github.com/Fmaverick/k2-climbing-guide)：一个 Roblox 游戏内容站验证实验。
-- [witchspire-guide](https://github.com/Fmaverick/witchspire-guide)：Witchspire 非官方指南与 Early Access wiki 实验。
-- [canvas](https://github.com/Fmaverick/canvas)：AI 原生视觉工作流空间。
-
 ## 我相信
 
 - 好的 AI 产品不是“AI + 界面”，而是重新设计过的工作流。
