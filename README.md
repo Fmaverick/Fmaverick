@@ -2,9 +2,9 @@
 
 **English** · [中文](README.zh-CN.md)
 
-I'm an AI Product Manager working across AI, global products, business, and media systems.
+I'm an AI Product Manager exploring the intersection of AI, global products, business, and media systems.
 
-I’m interested in products that do more than look intelligent — products that sharpen judgment, improve distribution, and turn messy creative or commercial work into repeatable systems.
+I'm especially interested in one question: how AI can turn scattered signals, creative instinct, and commercial intuition into systems that compound. Most of what I build lives somewhere between media, distribution, and product leverage.
 
 🐦 [X](https://x.com/HunterKilig)
 
