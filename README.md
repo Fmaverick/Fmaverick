@@ -1,26 +1,64 @@
-# Faye / Fmaverick
+# Hi, I'm Phoebe 👋
 
-我在构建 AI 原生工具、Agent 工作流，以及个人操作系统。
+**English** · [中文](README.zh-CN.md)
 
-我关心的不是“看起来很 AI”的 demo，而是真正会进入日常生活的软件：帮助人更清楚地思考、更低摩擦地行动，把混乱上下文变成可复用系统。
+I'm an AI Product Manager focused on AI, global products, and commercial thinking.
 
-现在最感兴趣的问题是：
+Like Phoebe from *Friends*, I like bringing a little personality into serious things. I care about products that are useful, expressive, and economically meaningful — especially when AI makes them faster to build, easier to test, and more human to use.
 
-**当 Codex、Hermes、飞书、GitHub、CLI 工具和 Agent skills 连成一个人的连续操作层，会发生什么？**
+I’m particularly interested in:
+- AI-native products
+- agent workflows and personal systems
+- global / cross-border opportunities
+- product strategy with real business leverage
 
-## 最近在做
+🐦 [X](https://x.com/HunterKilig)
 
-- **个人 Agent 操作层**：让 Codex / Claude Code 可以从飞书、GitHub、本地 CLI 和长期工作区里被调度、恢复和协作。
-- **Agent skills 产品化**：把商业诊断、写作、PPT、内容生成、学习教练等重复工作沉淀成可复用 skills。
-- **需求验证机器**：用趋势、搜索、竞品、页面、部署和数据反馈，快速验证小型互联网产品。
+---
 
-## 我相信
+## ⭐ Featured projects
 
-- 好的 AI 产品不是“AI + 界面”，而是重新设计过的工作流。
-- Agent 需要结构、记忆、工具、权限和可恢复路径，而不只是更好的 prompt。
-- CLI、文档、任务、skills、自动化和聊天界面，本质上都可以是产品界面。
-- 个人系统值得被认真构建，因为真实工作流一开始永远是混乱的。
+A few projects that best represent how I think and build.
 
-## 找到我
+🎨 [**cover-generator**](https://github.com/Fmaverick/cover-generator) (7 stars) - AI-assisted cover generation for Xiaohongshu creators, turning visual taste into a fast, repeatable content workflow
 
-- GitHub: [@Fmaverick](https://github.com/Fmaverick)
+🃏 [**tarot**](https://github.com/Fmaverick/tarot) (1 star) - An AI-native tarot product blending interface, narrative, and lightweight intelligence into a consumer-facing experience
+
+🧩 [**canvas**](https://github.com/Fmaverick/canvas) - An AI-native creative workspace for turning ideas into structured visual workflows
+
+💼 [**boss-agent-cli**](https://github.com/Fmaverick/boss-agent-cli) - An agent-first CLI for BOSS 直聘 workflows, from search and filtering to recruiter operations and resume optimization
+
+---
+
+## 🧠 What I work on
+
+I like sitting at the intersection of product, tooling, and commercial judgment.
+
+- turning vague ideas into AI-native product concepts
+- designing workflows that make individuals more capable
+- exploring creator tools, consumer AI, and small business leverage
+- using agents as a practical medium for shipping, not just prototyping
+
+---
+
+## 🌏 Themes I care about
+
+The topics I keep coming back to.
+
+- **AI** — products, interfaces, distribution, and workflow design
+- **Global** — products that can travel across markets, languages, and user contexts
+- **Business** — not just what is cool, but what creates durable value
+
+---
+
+## 🤝 Open to
+
+I’d love to connect with people working on:
+
+- AI product roles
+- AI-native startup ideas
+- global / cross-border products
+- product strategy, growth, and commercialization
+- thoughtful collaborations between product, design, and agents
+
+If that sounds like your world, feel free to reach out on [X](https://x.com/HunterKilig).
