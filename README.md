@@ -4,7 +4,7 @@
 
 I'm an AI Product Manager exploring the intersection of AI, global products, business, and media systems.
 
-I'm especially interested in one question: how AI can turn scattered signals, creative instinct, and commercial intuition into systems that compound. Most of what I build lives somewhere between media, distribution, and product leverage.
+I'm especially interested in one question: how AI can turn scattered signals, creative instinct, and commercial intuition into compounding systems. Most of what I build sits at the intersection of media, distribution, and product leverage.
 
 🐦 [X](https://x.com/HunterKilig)
 
