@@ -2,15 +2,16 @@
 
 **English** · [中文](README.zh-CN.md)
 
-I'm an AI Product Manager focused on AI, global products, and commercial thinking.
+I'm an AI Product Manager interested in AI, global products, business, and media systems.
 
-Like Phoebe from *Friends*, I like bringing a little personality into serious things. I care about products that are useful, expressive, and economically meaningful — especially when AI makes them faster to build, easier to test, and more human to use.
+Like Phoebe from *Friends*, I like bringing a little personality into serious things. I'm especially drawn to products that help people create, publish, think, and operate with more leverage.
 
-I’m particularly interested in:
+Right now, I spend a lot of time around:
 - AI-native products
-- agent workflows and personal systems
-- global / cross-border opportunities
-- product strategy with real business leverage
+- creator tools and media workflows
+- repeatable content systems
+- agents, automation, and personal operating layers
+- global / cross-border opportunities with real business potential
 
 🐦 [X](https://x.com/HunterKilig)
 
@@ -18,36 +19,40 @@ I’m particularly interested in:
 
 ## ⭐ Featured projects
 
-A few projects that best represent how I think and build.
+A few repositories that better reflect what I’ve been actively exploring recently.
 
-🎨 [**cover-generator**](https://github.com/Fmaverick/cover-generator) (7 stars) - AI-assisted cover generation for Xiaohongshu creators, turning visual taste into a fast, repeatable content workflow
+🎨 [**cover-generator**](https://github.com/Fmaverick/cover-generator) - AI-assisted cover generation for Xiaohongshu creators, turning visual taste into a faster and more repeatable publishing workflow
 
-🃏 [**tarot**](https://github.com/Fmaverick/tarot) (1 star) - An AI-native tarot product blending interface, narrative, and lightweight intelligence into a consumer-facing experience
+🪧 [**guizang-social-card-skill**](https://github.com/Fmaverick/guizang-social-card-skill) - A skill for generating Xiaohongshu carousels and WeChat cover assets with structured visual systems
 
-🧩 [**canvas**](https://github.com/Fmaverick/canvas) - An AI-native creative workspace for turning ideas into structured visual workflows
+📽️ [**xiaoer-videolab**](https://github.com/Fmaverick/xiaoer-videolab) - A one-click video capture workflow that reflects my interest in creator-side media tooling and lightweight automation
 
-💼 [**boss-agent-cli**](https://github.com/Fmaverick/boss-agent-cli) - An agent-first CLI for BOSS 直聘 workflows, from search and filtering to recruiter operations and resume optimization
+📡 [**follow-builders**](https://github.com/Fmaverick/follow-builders) - A builder-focused content digest workflow that turns long-form signals into more digestible media outputs
+
+🖼️ [**xhs-cover-skill**](https://github.com/Fmaverick/xhs-cover-skill) - A practical skill for generating Xiaohongshu covers directly from an agent workflow
 
 ---
 
 ## 🧠 What I work on
 
-I like sitting at the intersection of product, tooling, and commercial judgment.
+I’m interested in the intersection of product, media, systems, and commercial judgment.
 
-- turning vague ideas into AI-native product concepts
-- designing workflows that make individuals more capable
-- exploring creator tools, consumer AI, and small business leverage
-- using agents as a practical medium for shipping, not just prototyping
+- turning content creation into repeatable systems instead of one-off effort
+- designing tools for creators, operators, and small teams
+- exploring how agents can become part of everyday publishing workflows
+- building products that are not just interesting demos, but useful working surfaces
 
 ---
 
 ## 🌏 Themes I care about
 
-The topics I keep coming back to.
+The themes I keep coming back to.
 
-- **AI** — products, interfaces, distribution, and workflow design
-- **Global** — products that can travel across markets, languages, and user contexts
-- **Business** — not just what is cool, but what creates durable value
+- **AI** — product form, workflow design, interfaces, and leverage
+- **Media** — self-media, publishing systems, and creator tooling
+- **Automation** — workflows that can be reused, delegated, and scaled
+- **Global** — products that can travel across markets, languages, and contexts
+- **Business** — not just what feels new, but what can create durable value
 
 ---
 
@@ -56,9 +61,10 @@ The topics I keep coming back to.
 I’d love to connect with people working on:
 
 - AI product roles
+- creator tools and media infrastructure
+- self-media systems and automation workflows
 - AI-native startup ideas
-- global / cross-border products
+- global / cross-border product opportunities
 - product strategy, growth, and commercialization
-- thoughtful collaborations between product, design, and agents
 
 If that sounds like your world, feel free to reach out on [X](https://x.com/HunterKilig).
