@@ -10,33 +10,47 @@ I'm especially interested in one question: how AI can turn scattered signals, cr
 
 ---
 
-## ⭐ Selected projects
+## ⭐ Selected work
 
-### AI × Media
+### AI × Visual products
 
-🎨 [**cover-generator**](https://github.com/Fmaverick/cover-generator) - AI-assisted cover generation for Xiaohongshu creators
+🎨 [**Facetry**](https://facetry.beauty) — upload a selfie, get a 12-season personal color analysis + face-shape report. Free teaser, one-time unlock.
 
-🎥 [**youtube-kol-mvp**](https://github.com/Fmaverick/youtube-kol-mvp) - A workflow MVP for creator research and media opportunity discovery
+🖌️ [**ColorPagemaker**](https://colorpagemaker.com) — AI coloring page generator for printable activity books.
 
-📈 [**trend-valid-harness**](https://github.com/Fmaverick/trend-valid-harness) - A harness for validating trend-driven product and content bets
+🌙 [**Birthchartly**](https://birthchartly.com) — natal chart site with an independent chart-computation engine.
+
+🎬 **EraseKit** — AI photo/video erase SaaS: remove objects, people, text and watermarks from images and video.
+
+🖼️ **ImgAny** — multi-image reference video generator. **👤 FaceShape AI** — face-shape analysis prototype.
+
+### AI × Skills (open source)
+
+📚 [**weread-omni**](https://github.com/Fmaverick/weread-omni) — one canonical surface for 40 WeRead operations: agent skill + TypeScript SDK + CLI.
+
+🌱 [**open-growth-skills**](https://github.com/Fmaverick/open-growth-skills) — a collection of growth methods distilled into AI agent skills.
+
+📖 **IELTS & PTE coaching skills** — local-first exam-prep coaches with a personal dashboard, no account and no cloud upload.
 
 ### AI × Business
 
-📊 [**analytics-hub-mcp**](https://github.com/Fmaverick/analytics-hub-mcp) - A hub for turning fragmented signals into better product and business judgment
+💼 [**boss-agent-cli**](https://github.com/Fmaverick/boss-agent-cli) — an agent-first CLI for job-search and recruiter workflows.
 
-💼 [**boss-agent-cli**](https://github.com/Fmaverick/boss-agent-cli) - An agent-first CLI for job-search and recruiter workflows
-
-🌱 [**sealos-growth-engine**](https://github.com/Fmaverick/sealos-growth-engine) - Growth systems through distribution thinking and product experimentation
+📊 **Analytics Hub MCP** — a local MCP server turning fragmented GA4 / Search Console / Clarity signals into product and business judgment.
 
 ### AI × Product
 
-🧠 [**self-evolution-agent**](https://github.com/Fmaverick/self-evolution-agent) - Agents as a longer-term growth and operating layer
+🧠 **Self-evolution agent** — treating agents as a longer-term growth and operating layer for myself.
 
-📝 [**pte-skill-lab**](https://github.com/Fmaverick/pte-skill-lab) - Structured learning and AI-assisted coaching workflows
+🎮 [**genshin_ooc**](https://github.com/Fmaverick/genshin_ooc) — a more playful exploration of interaction and expressive systems.
 
-🃏 [**tarot1**](https://github.com/Fmaverick/tarot1) - A consumer-facing AI product direction around narrative and interface
+🎨 [**cover-generator**](https://github.com/Fmaverick/cover-generator) — AI-assisted cover generation for Xiaohongshu creators.
 
-🎮 [**genshin_ooc**](https://github.com/Fmaverick/genshin_ooc) - A more playful exploration of interaction and expressive systems
+---
+
+## 🛠 How I work
+
+Everything I build is versioned on GitHub from day one — product repos, skill packages, writing and archives alike. That keeps a verifiable trail of how each idea evolved, which doubles as a working portfolio and a source of material for writing and portfolio reviews.
 
 ---
 
